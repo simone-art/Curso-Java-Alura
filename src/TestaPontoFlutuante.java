@@ -4,6 +4,7 @@ public class TestaPontoFlutuante {
 	public static void main (String[] args) {
 		
 		//Variável double é usada em valores com decimais.
+		//Inicializar é dar um valor a uma variável
 		double salario;
 		salario = 1500.50;
 		System.out.println("Meu salario é: " + salario);
